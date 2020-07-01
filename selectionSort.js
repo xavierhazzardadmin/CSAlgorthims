@@ -29,4 +29,5 @@ var selectionSort = function (array) {
 
 var array = [22, 11, 99, 88, 9, 7, 42];
 selectionSort(array);
-println("Array after sorting:  " + array);
+println("Array after sorting:  ", array);
+
